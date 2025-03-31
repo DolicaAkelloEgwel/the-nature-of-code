@@ -41,7 +41,7 @@ class Walker {
     }
   }
 function setup() {
-  createCanvas(640, 640);
+  createCanvas(windowWidth, windowHeight);
   walker = new Walker();
   background(255);
 }

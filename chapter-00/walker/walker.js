@@ -15,7 +15,6 @@ class Walker {
     this.y += ystep;
     
     }
-  }
 }
 function setup() {
   createCanvas(640, 640);

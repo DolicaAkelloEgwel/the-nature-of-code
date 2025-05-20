@@ -11,17 +11,18 @@ class Mover {
     if (keyIsDown(UP_ARROW)) {
       this.acceleration.y = -0.05;
     }
-    if (keyIsDown(DOWN_ARROW)) {
+    else if (keyIsDown(DOWN_ARROW)) {
       this.acceleration.y = 0.05;
     }
     else {
       this.acceleration.y = 0;
     }
+    
     this.velocity.add(this.acceleration);
     this.velocity.limit(this.topSpeed);
     this.position.add(this.velocity);
     print(this.acceleration);
-    print(this.velocity);
+    print(this.velocity.toString());
   }
   show() {
     stroke(0);

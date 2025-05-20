@@ -3,9 +3,9 @@ let mover;
 class Mover {
   constructor() {
     this.position = createVector(width / 2, height / 2);
-    this.velocity = createVector(0, 2);
+    this.velocity = createVector(0, 0);
     this.acceleration = createVector(0,0);
-    this.topSpeed = 10;
+    this.topSpeed = 15;
   }
   update() {
     if (keyIsDown(UP_ARROW)) {
@@ -17,12 +17,16 @@ class Mover {
     else {
       this.acceleration.y = 0;
     }
-    
+
     this.velocity.add(this.acceleration);
     this.velocity.limit(this.topSpeed);
+
+    // prevent ball from moving down
+    if (this.velocity.y > 0) {
+      this.velocity.y = 0;
+    }
+
     this.position.add(this.velocity);
-    print(this.acceleration);
-    print(this.velocity.toString());
   }
   show() {
     stroke(0);

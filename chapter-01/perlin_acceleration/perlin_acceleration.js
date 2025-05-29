@@ -1,3 +1,4 @@
+// Exercise 1.6
 let mover;
 
 class Mover {

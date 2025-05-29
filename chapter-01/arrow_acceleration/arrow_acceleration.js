@@ -1,3 +1,4 @@
+// Exercise 1.5
 let mover;
 
 class Mover {
@@ -12,10 +13,10 @@ class Mover {
       this.acceleration.y = -0.05;
     }
     else if (keyIsDown(DOWN_ARROW)) {
-      this.acceleration.y = 0.075;
+      this.acceleration.y = 0.2;
     }
     else {
-      this.acceleration.y += 0.0001; // deceleration when no "foot on the pedal"
+      this.acceleration.y += 0.001; // deceleration when no "foot on the pedal"
     }
 
     this.velocity.add(this.acceleration);

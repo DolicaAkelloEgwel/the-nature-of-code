@@ -11,7 +11,6 @@ class Mover {
   update() {
     let mouse = createVector(mouseX, mouseY);
     let dir = p5.Vector.sub(mouse, this.position);
-    // let mag = dir.mag();
     dir.normalize();
     dir.mult(0.05);
 

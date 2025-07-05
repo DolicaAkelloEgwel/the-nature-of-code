@@ -1,3 +1,4 @@
+// Exercise 0.6
 class GaussianWalker {
   constructor() {
     this.x = width / 2;

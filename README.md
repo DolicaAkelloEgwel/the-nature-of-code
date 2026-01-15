@@ -2,31 +2,4 @@
 
 Attempt at getting through the book.
 
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
-<!-- I will come back to this I promise. -->
+Also random sketches.

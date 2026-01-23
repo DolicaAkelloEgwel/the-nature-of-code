@@ -3,3 +3,5 @@
 Attempt at getting through the book.
 
 Also random sketches.
+
+<!-- Being lazy again. Lord forgive me... -->

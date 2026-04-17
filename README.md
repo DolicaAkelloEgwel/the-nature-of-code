@@ -5,9 +5,3 @@ Attempt at getting through the book.
 Also random sketches.
 
 <!-- Being lazy again. Lord forgive me... -->
-<!-- Going through some stuff. -->
-<!-- She had it coming. -->
-<!-- Really tired. -->
-<!-- I have stuff going on. -->
-<!-- Tiredtiredtired. -->
-<!-- Something will happen tomorrow. -->
